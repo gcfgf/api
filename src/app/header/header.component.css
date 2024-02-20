@@ -1,0 +1,17 @@
+.header{
+   background-color: black;
+   color: azure;
+   display: flex;
+  justify-content: space-between;
+  height: 100px;
+  text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.carts-details{
+    display: flex;
+    justify-content: center;
+}
+
